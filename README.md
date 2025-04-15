@@ -49,8 +49,7 @@ Using real-world data from the [UCI Garment Worker Productivity dataset](https:/
 
 ## Steps to Model Building & Analysis 
 
-### Step 1. Data Preparation
-
+#### Step 1. Data Preparation
 #### Step 2. Modeling for Client A (Regression)
 #### Step 3. Modeling for Client B (Classification)
 #### Step 4. Revenue & Profit Analysis
