@@ -3,7 +3,7 @@
 This prediction project combined business requirements with machine learning modeling (Random Forest Regressor and Classifier) to solve a real-world allocation problem. The result is an accurate prediction model and a practical decision-making framework. This ML project demonstrates the power of analytics to generate financial impact on the manufacturing industry.
 
 - Python Notebook: [Predicting Workers Productivity](https://github.com/SalazarHerna/ML-Predicting-Worker-s-Productivity/blob/a5347abeee04a754cf29b2c541548ac470b60ee1/Documents%20%26%20Code/Jupyter%20Notebook%20-%20Predicting%20Workers%20Productivity.ipynb)
-- Complete Report: [Project Report]
+- Complete Report: [Project Report](https://github.com/SalazarHerna/ML-Predicting-Worker-s-Productivity/blob/61dd1cf9db6eed5a483734bfc20c7c5a63aecaf6/Documents%20%26%20Code/Machine%20Learning-%20Predicting%20Worker%E2%80%99s%20Productivity%20in%20the%20Apparel%20Manufacturing%20Industry%20.pdf)
 
 ---
 ## What Was Achieved?
