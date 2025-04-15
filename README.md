@@ -9,6 +9,8 @@ Developed a **dual-purpose machine learning solution** that predicts garment wor
 - **Client A:** Pays based on actual productivity ($120 × P).
 - **Client B:** Pays a flat fee ($250) **if** productivity exceeds 0.80.
 
+![Visual Description](https://github.com/SalazarHerna/ML-Predicting-Worker-s-Productivity/blob/fe789e42f336a38ca5eca9b24dd1e3538ef8e7b8/Documents%20%26%20Code/Profit%20Comparison%20Model%20vs%20Random%20Allocation.jpeg)
+
 By deploying a **Random Forest Regressor** and a **Random Forest Classifier**, the model performs smarter placement decisions, resulting in up to **$9,720 in added profit** compared to random placement.
 
 ---
