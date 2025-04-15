@@ -1,2 +1,5 @@
-# ML-Predicting-Worker-s-Productivity
-This prediction project combined business intuition with machine learning modeling (Random Forest Regressor and Classifier) to solve a real-world allocation problem. The result is an accurate prediction model and a practical decision-making framework. 
+# Machine Learning | Predicting Worker's Productivity
+
+This prediction project combined business intuition with machine learning modeling (Random Forest Regressor and Classifier) to solve a real-world allocation problem. The result is an accurate prediction model and a practical decision-making framework. This ML project demonstrates the power of analytics to generate financial impact on the manufacturing industry.
+
+
