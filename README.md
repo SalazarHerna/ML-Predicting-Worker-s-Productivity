@@ -51,35 +51,10 @@ Using real-world data from the [UCI Garment Worker Productivity dataset](https:/
 
 ### Step 1. Data Preparation
 
-### Step 2. Modeling for Client A (Regression)
-- **Model:** Random Forest Regressor
-- **Performance:** R² = **0.443**, lowest MSE among models tested
-- **Decision Rule:** Place a worker **only if** `predicted_P × $120 − $70 > 0`
-
-### Step 3. Modeling for Client B (Classification)
-- **Model:** Random Forest Classifier
-- **Performance:**
-  - Accuracy = **0.8625**
-  - AUC-ROC = **0.9388**
-- **Decision Rule:** Place a worker **only if** `P(predicted > 0.8) × $250 − $70 > 0`
-
-### Step 4. Revenue & Profit Analysis
-- **Client A:**
-  - Workers placed: 198
-  - Total profit: $4,669.10
-  - Average profit per placement: $23.58
-- **Client B:**
-  - Workers placed: 137
-  - Total profit: $16,410.00
-  - Average profit per placement: $119.78
-
-### Step 5. Random Allocation vs. Model Comparison
-- **Client A:**
-  - Random Profit: $4,027.82
-  - Value from Model: **+$641.28**
-- **Client B:**
-  - Random Profit: $6,690.00
-  - Value from Model: **+$9,720.00**
+#### Step 2. Modeling for Client A (Regression)
+#### Step 3. Modeling for Client B (Classification)
+#### Step 4. Revenue & Profit Analysis
+#### Step 5. Random Allocation vs. Model Comparison
 
 ---
 
